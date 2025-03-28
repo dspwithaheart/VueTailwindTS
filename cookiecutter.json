@@ -1,0 +1,11 @@
+{
+  "full_name": "Aayush Yadav",
+  "email": "aayush.yadav@dspwithaheart.com",
+  "gitlab_username": "yadava",
+  "project_name": "UI Template",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Template contains all the boilerplate you need to create Vue 3 TypeScript App with Vite and Tailwind v4.",
+  "project_description": "Detailed project description.",
+  "version": "0.1.0",
+  "theme_color": ["orange", "amber", "emerald", "cyan", "blue", "violet", "fuchsia", "slate", "stone"]
+}
